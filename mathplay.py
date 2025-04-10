@@ -1,7 +1,5 @@
-
 myname = "Kita"
 
-mymesg = "is the greatest"
+mymesg = "I am GREAT!"
 
-print(myname + " " + mymesg)
 
