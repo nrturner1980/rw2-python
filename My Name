@@ -1,0 +1,5 @@
+myname = "Kita Cunningham"
+meaning = "2025"
+print("Kita Cunningham" + "2025")
+
+
